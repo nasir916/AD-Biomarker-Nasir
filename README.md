@@ -1,6 +1,6 @@
 # Whole-blood expression signature of clinically diagnosed Alzheimer's disease
 
-Code, final model and GEO search for the manuscript *"A whole-blood expression signal of clinically diagnosed Alzheimer's disease transfers across cohorts but is not specific to Alzheimer's disease"* (submitted to *Neurological Sciences*).
+Code, final model and GEO search for the manuscript *"External validation of a whole-blood transcriptomic signature for Alzheimer's disease: modest transportability and limited disease specificity"* (submitted to *Neurological Sciences*).
 
 A 17-gene whole-blood expression model was developed in GSE140829 and applied without modification to GSE63061 and GSE63060, with random-signature benchmarks, sensitivity analyses and specificity testing against FTLD-spectrum syndromes and MCI (GSE140830). **The signature is not a diagnostic test.**
 
