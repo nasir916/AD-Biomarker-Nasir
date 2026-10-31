@@ -33,3 +33,7 @@ The pipeline downloads the public GEO series (GSE140829, GSE140830, GSE63061, GS
 ## Data
 
 All expression data are public in the Gene Expression Omnibus and are not redistributed here. No participant-level clinical data beyond those deposited in GEO were used.
+
+## License
+
+The code is released under the [MIT License](LICENSE). The blood transcription module file (`code/data/genesets/Li2014_BTM.gmt`) is derived from Li et al. (2014) via the tmod package and remains subject to its original terms. GEO data are subject to the terms of their depositors.
