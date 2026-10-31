@@ -1,0 +1,7 @@
+Supplementary File S2. GEO search
+Date of search: 25 October 2026
+Interface: NCBI E-utilities esearch/esummary, database gds, retmax 500
+Query:
+(Alzheimer[All Fields]) AND (blood[All Fields] OR PBMC[All Fields] OR leukocyte[All Fields] OR monocyte[All Fields]) AND "Homo sapiens"[Organism] AND gse[Entry Type] AND ("expression profiling by array"[DataSet Type] OR "expression profiling by high throughput sequencing"[DataSet Type])
+Result: 197 GSE series; list with accession, number of samples, platform, type, title, summary and submission date in geo_screen_197_series.csv.
+Eligibility applied to the list: Illumina HumanHT-12 whole-blood arrays; at least 40 AD and 40 cognitively normal samples; sample-level diagnosis. Qualifying series: GSE140829 (discovery), GSE63061 and GSE63060 (validation).
